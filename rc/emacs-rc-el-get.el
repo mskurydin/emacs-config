@@ -9,7 +9,9 @@
       (append '(
                 highlight-symbol
                 zenburn-theme
-                undo-tree)
+                undo-tree
+                magit
+                )
               (mapcar 'el-get-source-name el-get-sources)))
 
 (el-get 'sync my-el-get-packages)
