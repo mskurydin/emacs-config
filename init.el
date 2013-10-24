@@ -31,3 +31,4 @@
 (load "emacs-rc-highlight.el")
 (load "emacs-rc-timeclock.el")
 (load "emacs-rc-ace-jump-mode.el")
+(load "emacs-rc-switch-window.el")
