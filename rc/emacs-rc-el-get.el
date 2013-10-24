@@ -7,7 +7,6 @@
 
 (setq my-el-get-packages
       (append '(
-                gtags
                 zenburn-theme
                 undo-tree)
               (mapcar 'el-get-source-name el-get-sources)))
