@@ -30,3 +30,4 @@
 (load "emacs-rc-undo.el")
 (load "emacs-rc-highlight.el")
 (load "emacs-rc-timeclock.el")
+(load "emacs-rc-ace-jump-mode.el")

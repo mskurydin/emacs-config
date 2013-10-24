@@ -12,6 +12,7 @@
                 undo-tree
                 magit
                 rect-mark
+                ace-jump-mode
                 )
               (mapcar 'el-get-source-name el-get-sources)))
 
