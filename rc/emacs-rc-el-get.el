@@ -7,6 +7,7 @@
 
 (setq my-el-get-packages
       (append '(
+                highlight-symbol
                 zenburn-theme
                 undo-tree)
               (mapcar 'el-get-source-name el-get-sources)))

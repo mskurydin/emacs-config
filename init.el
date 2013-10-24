@@ -28,4 +28,5 @@
 (load "emacs-rc-backup.el")
 (load "emacs-rc-encoding.el")
 (load "emacs-rc-undo.el")
+(load "emacs-rc-highlight.el")
 
