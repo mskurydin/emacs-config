@@ -11,6 +11,7 @@
                 zenburn-theme
                 undo-tree
                 magit
+                rect-mark
                 )
               (mapcar 'el-get-source-name el-get-sources)))
 
