@@ -3,7 +3,7 @@
 
 (setq emacs-extensions-dir (concat emacs-config-dir "extensions/"))
 (setq el-get-dir emacs-extensions-dir)
-(setq el-get-install-dir (concat emacs-extensions-dir "el-get/el-get/"))
+(setq el-get-install-dir (concat emacs-extensions-dir "el-get/"))
 (setq package-user-dir emacs-extensions-dir)
 
 (add-to-list 'load-path emacs-config-dir)
