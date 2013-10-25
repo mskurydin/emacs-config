@@ -2,7 +2,12 @@
 (require 'el-get)
 
 
-(setq el-get-sources '())
+(setq el-get-sources '(
+                       (:name expand-region
+                              :type github
+                              :branch "master"
+                              :pkgname "magnars/expand-region.el")
+                       ))
 
 
 (setq my-el-get-packages

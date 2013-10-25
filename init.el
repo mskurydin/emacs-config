@@ -32,3 +32,4 @@
 (load "emacs-rc-timeclock.el")
 (load "emacs-rc-ace-jump-mode.el")
 (load "emacs-rc-switch-window.el")
+(load "emacs-rc-expand-region.el")
