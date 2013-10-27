@@ -1,4 +1,8 @@
 *.elc
 session.*
 auto-save-list
+extensions/
+ede-projects.el
+srecode-map.el
+semanticdb/
 *~

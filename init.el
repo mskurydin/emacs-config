@@ -33,3 +33,4 @@
 (load "emacs-rc-ace-jump-mode.el")
 (load "emacs-rc-switch-window.el")
 (load "emacs-rc-expand-region.el")
+(load "emacs-rc-cedet.el")

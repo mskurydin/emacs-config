@@ -19,6 +19,7 @@
                 rect-mark
                 ace-jump-mode
                 switch-window
+                cedet
                 )
               (mapcar 'el-get-source-name el-get-sources)))
 
