@@ -7,6 +7,10 @@
                               :type github
                               :branch "master"
                               :pkgname "magnars/expand-region.el")
+                       (:name scala-mode2
+                              :type github
+                              :branch "master"
+                              :pkgname "hvesalai/scala-mode2")
                        ))
 
 
