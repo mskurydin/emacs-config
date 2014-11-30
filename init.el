@@ -17,6 +17,7 @@
 (load "emacs-rc-el-get.el")
 
 (load "emacs-rc-common.el")
+(load "emacs-rc-numbers.el")
 (load "emacs-rc-mark-multiple.el")
 (load "emacs-rc-key-chord.el")
 (load "emacs-rc-ido.el")
