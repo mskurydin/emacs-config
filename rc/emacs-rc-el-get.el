@@ -11,6 +11,9 @@
                               :type github
                               :branch "master"
                               :pkgname "hvesalai/scala-mode2")
+                       (:name cool-mode
+                              :type hg
+                              :url "https://bitbucket.org/srirampc/cool-mode")
                        ))
 
 

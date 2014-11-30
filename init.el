@@ -35,3 +35,4 @@
 (load "emacs-rc-expand-region.el")
 (load "emacs-rc-cedet.el")
 (load "emacs-rc-scala.el")
+(load "emacs-rc-cool-mode.el")
