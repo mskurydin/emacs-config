@@ -28,6 +28,7 @@
                 switch-window
                 cedet
                 mark-multiple
+                key-chord
                 )
               (mapcar 'el-get-source-name el-get-sources)))
 
