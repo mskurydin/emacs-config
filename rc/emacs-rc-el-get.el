@@ -27,6 +27,7 @@
                 ace-jump-mode
                 switch-window
                 cedet
+                mark-multiple
                 )
               (mapcar 'el-get-source-name el-get-sources)))
 

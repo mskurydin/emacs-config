@@ -17,6 +17,7 @@
 (load "emacs-rc-el-get.el")
 
 (load "emacs-rc-common.el")
+(load "emacs-rc-mark-multiple.el")
 (load "emacs-rc-ido.el")
 (load "emacs-rc-gtags.el")
 (load "emacs-rc-elpa.el")
